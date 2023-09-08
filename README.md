@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EvgeniySHEM
-- 📫 How to reach me : sanctio@yandex.ru
+- 👋 Hi, I’m Eugene
+- 📫 How to reach me : sanctio@yandex.ru or @Sharychenkov_EM
 
 <!---
 EvgeniySHEM/EvgeniySHEM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
